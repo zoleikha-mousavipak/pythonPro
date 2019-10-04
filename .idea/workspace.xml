@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa78a2d3-acc1-444b-a033-53da34ce6072" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/zoliCodes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IPItrator_abstract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generator1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generator2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterator1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterator2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects_boundMethods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repr-str.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stingfy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/with1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/with2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/with3.py" afterDir="false" />
-    </list>
+    <list default="true" id="aa78a2d3-acc1-444b-a033-53da34ce6072" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -304,12 +288,12 @@
       <updated>1569142242081</updated>
       <workItem from="1569142245649" duration="9250000" />
       <workItem from="1569933379570" duration="11908000" />
-      <workItem from="1570175571097" duration="8382000" />
+      <workItem from="1570175571097" duration="8797000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29540000" />
+    <option name="totallyTimeSpent" value="29955000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="25" width="1922" height="1056" extended-state="6" />
