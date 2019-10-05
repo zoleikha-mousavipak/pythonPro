@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa78a2d3-acc1-444b-a033-53da34ce6072" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/addithon.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IPItrator_abstract.py" beforeDir="false" afterPath="$PROJECT_DIR$/IPItrator_abstract.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IPItrator_abstract.py" beforeDir="false" afterPath="$PROJECT_DIR$/s2_IPItrator_abstract.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addithon.py" beforeDir="false" afterPath="$PROJECT_DIR$/s2_addithon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generator1.py" beforeDir="false" afterPath="$PROJECT_DIR$/s1_generator1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generator2.py" beforeDir="false" afterPath="$PROJECT_DIR$/s1_generator2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iterator1.py" beforeDir="false" afterPath="$PROJECT_DIR$/s1_iterator1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iterator2.py" beforeDir="false" afterPath="$PROJECT_DIR$/s1_iterator2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objects_boundMethods.py" beforeDir="false" afterPath="$PROJECT_DIR$/s2_objects_boundMethods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repr-str.py" beforeDir="false" afterPath="$PROJECT_DIR$/s2_repr-str.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stringfy.py" beforeDir="false" afterPath="$PROJECT_DIR$/s2_stringfy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/with1.py" beforeDir="false" afterPath="$PROJECT_DIR$/s1_with1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/with2.py" beforeDir="false" afterPath="$PROJECT_DIR$/s1_with2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/with3.py" beforeDir="false" afterPath="$PROJECT_DIR$/s1_with3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,53 +23,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stringfy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repr-str.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/IPItrator_abstract.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="65" selection-start-line="65" selection-end-line="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/objects_boundMethods.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/addithon.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-90">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -90,9 +54,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="283" />
-    <option name="width" value="1628" />
-    <option name="height" value="797" />
+    <option name="x" value="1273" />
+    <option name="y" value="128" />
+    <option name="width" value="1026" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -102,7 +67,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,6 +78,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,7 +106,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.addithon">
+  <component name="RunManager" selected="Python.IPItrator_abstract">
+    <configuration name="IPItrator_abstract" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zoliCodes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IPItrator_abstract.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="addithon" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="zoliCodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,28 +217,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stingfy" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="zoliCodes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stringfy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="with3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="zoliCodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -277,18 +242,18 @@
     <list>
       <item itemvalue="Python.generator1" />
       <item itemvalue="Python.with3" />
-      <item itemvalue="Python.stingfy" />
       <item itemvalue="Python.repr-str" />
       <item itemvalue="Python.objects_boundMethods" />
       <item itemvalue="Python.addithon" />
+      <item itemvalue="Python.IPItrator_abstract" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.IPItrator_abstract" />
         <item itemvalue="Python.addithon" />
         <item itemvalue="Python.objects_boundMethods" />
         <item itemvalue="Python.repr-str" />
         <item itemvalue="Python.with3" />
-        <item itemvalue="Python.stingfy" />
       </list>
     </recent_temporary>
   </component>
@@ -304,23 +269,23 @@
       <updated>1569142242081</updated>
       <workItem from="1569142245649" duration="9250000" />
       <workItem from="1569933379570" duration="11908000" />
-      <workItem from="1570175571097" duration="11735000" />
+      <workItem from="1570175571097" duration="12557000" />
+      <workItem from="1570251309887" duration="1229000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32893000" />
+    <option name="totallyTimeSpent" value="34944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="25" width="1922" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14034152" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14194237" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30481285" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30481285" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39957264" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -329,7 +294,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3497326" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3497326" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -342,8 +307,9 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/zoliCodes$IPItrator_abstract.coverage" NAME="IPItrator_abstract Coverage Results" MODIFIED="1570194802297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/zoliCodes$iterator1.coverage" NAME="iterator1 Coverage Results" MODIFIED="1570178425933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/zoliCodes$addithon.coverage" NAME="addithon Coverage Results" MODIFIED="1570193883669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zoliCodes$addithon.coverage" NAME="addithon Coverage Results" MODIFIED="1570194795995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/zoliCodes$with2.coverage" NAME="with2 Coverage Results" MODIFIED="1569945405371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/zoliCodes$iterator2.coverage" NAME="iterator2 Coverage Results" MODIFIED="1569941221354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/zoliCodes$with1.coverage" NAME="with1 Coverage Results" MODIFIED="1569943843044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -417,38 +383,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/repr-str.py">
+    <entry file="file://$PROJECT_DIR$/stringfy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state>
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stringfy.py">
+    <entry file="file://$PROJECT_DIR$/IPItrator_abstract.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="754">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/objects_boundMethods.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
+        <state relative-caret-position="396">
           <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/addithon.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
+        <state relative-caret-position="379">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IPItrator_abstract.py">
+    <entry file="file://$PROJECT_DIR$/repr-str.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s2_stringfy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
         </state>
       </provider>
     </entry>
