@@ -12,19 +12,20 @@ class MyProcess(multiprocessing.Process):
 
 
     def run(self) -> None :
-        time.sleep(2)
-        print("test", self.pid)
+        time.sleep(self.wait)
+        print("test", self.id, self.pid)
 
 
 # a = MyProcess()
 # a.start()
 
+core = multiprocessing.cpu_count()
 
 plist=[]
-for _ in range(5):
+for _ in range(core):
     # plist.append(MyProcess())
     # plist[-1].start()
-    p = MyProcess(_, random.randint(1,3))
+    p = MyProcess(_, random.randint(5,15))
     plist.append(p)
     p.start()
 
