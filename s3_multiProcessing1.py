@@ -6,7 +6,7 @@ import random
 class MyProcess(multiprocessing.Process):
 
     def __init__(self, id , wait):
-        super().__init__()
+        super().__init__() # call parent init(constructor)
         self.id = id
         self.wait = wait
 
